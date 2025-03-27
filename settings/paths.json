@@ -4,5 +4,11 @@
         "keypoints": "/Path/to/keypoints_folder",
         "image_set": "/Path/to/data_folder",
         "keypoints_model": "DLC_resnet50_TrackAug13shuffle1_50000"
+    },
+    "realistic": {
+        "labels": "./labels/all_batches_plus_keypoints.csv",
+        "keypoints": "/Path/to/keypoints_folder",
+        "image_set": "/Path/to/data_folder",
+        "keypoints_model": "DLC_resnet50_TrackAug13shuffle1_70000"
     }
 }

@@ -39,7 +39,7 @@ Similar to the silicone dataset, we proposed a realistic dataset which contains 
 ![Realistic Dataset](dataset.png)
 
 ### Download Links
-1. **Download the Realistic Dataset**: [Download Link](https://cwru.app.box.com/s/xkqftimr2cy5blbc3hcprz1csnoox3uh)
+1. **Download the Realistic Dataset**: [Download Link](https://zenodo.org/records/21041361)
 
 2. **Download Pre-generate DeepLabCut Keypoints Tracking Sheets** for the realistic dataset: [Download Link](https://drive.google.com/file/d/1sQq_ApYU7gmWQAb0tuR1JeMyx3BFAbxZ/view?usp=drive_link)
 
